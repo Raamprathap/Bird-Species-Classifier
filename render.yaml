@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: your-service-name
+    name: bird-species-classifier
     env: python
     buildCommand: |
       pip install --upgrade pip
