@@ -27,7 +27,7 @@ def index():
 
         if file:
             # Save the uploaded file
-            file_path = r"C:\Users\raamp\OneDrive\Desktop\Hello World\Birds\uploads\\" + file.filename
+            file_path = r"\Birds\uploads\\" + file.filename
             file.save(file_path)
 
             # Preprocess the image for prediction
