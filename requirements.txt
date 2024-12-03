@@ -1,4 +1,4 @@
 Flask==2.2.2
 tensorflow==2.12.0  # Adjust the version as needed
 numpy==1.23.5        # Adjust the version as needed
-h5py==3.6.0         # Adjust the version as needed
+h5py==3.6.0 --no-cython         # Adjust the version as needed
