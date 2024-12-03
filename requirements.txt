@@ -1,4 +1,4 @@
 Flask==2.2.2
 tensorflow==2.10.0  # Stable version with good compatibility
 numpy==1.21.6       # Widely used and compatible
-h5py==3.5.0 --no-cython          # Compatible with TensorFlow and stable
+h5py==3.5.0         # Compatible with TensorFlow and stable
